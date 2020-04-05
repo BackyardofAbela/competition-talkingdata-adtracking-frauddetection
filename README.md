@@ -7,4 +7,4 @@ Kaggle比赛：talking data adtracking-frauddetection
 任务介绍: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/overview
 数据下载: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
 数据也可在网盘下载：
-
+链接:https://pan.baidu.com/s/1V5HJej6dtLFrLFd2k4YfIg  密码:kz1y
